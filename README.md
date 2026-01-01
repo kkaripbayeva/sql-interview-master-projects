@@ -32,7 +32,7 @@ The main goal of Level 1 is to build confidence working with real-world datasets
 - [x] Data Cleaning  
 - [x] Data Aggregation
 
-### ✅ Level 2 — Joins Project
+### 📈 Level 2 — Joins Project
 
 This level focuses on divinginto table relationships and more complex data analysis.  
 The main goal of Level 2 is to work with multiple related tables using different types of JOINs
