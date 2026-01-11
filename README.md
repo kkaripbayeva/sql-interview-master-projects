@@ -37,11 +37,17 @@ The main goal of Level 1 is to build confidence working with real-world datasets
 This level focuses on divinginto table relationships and more complex data analysis.  
 The main goal of Level 2 is to work with multiple related tables using different types of JOINs
 
-**Status:** 🟡 In-Process
+**Status:** 🟢 Completed
 
 #### Topics Covered
-- [x] JOINs  
+- [x] Multi-Table JOINs  
 - [x] Window Functions
 - [x] Subqueries & Advanced CTEs
+- [x] CASE Logic
 
+### Level 3 - Advanced Analytics
+
+This level focuses on window functions and complex queries for sophisticated data analysis.
+
+**Status:** 🟡 In-Process
 ---
