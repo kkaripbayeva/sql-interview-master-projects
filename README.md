@@ -50,4 +50,6 @@ The main goal of Level 2 is to work with multiple related tables using different
 This level focuses on window functions and complex queries for sophisticated data analysis.
 
 **Status:** 🟡 In-Process
+
+
 ---
